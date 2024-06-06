@@ -21,5 +21,9 @@ YOLOv8 Model:
  https://docs.ultralytics.com/tasks/segment/#train
 
 
+https://github.com/batsy229/Instance-segmentation/assets/133564677/7f34a64d-fbf8-49d3-b9fe-596e64053574
+
+
+
  
  
